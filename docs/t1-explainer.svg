@@ -49,8 +49,8 @@
         <text x="595" y="462">[单透镜捕获 · metaphor]</text>
         <text x="595" y="484">[温度失衡 · metaphor]</text>
       </g>
-      <text x="595" y="540" fill="#475569" font-size="12" text-anchor="middle">回答"被什么模式驱动"</text>
-      <text x="595" y="560" fill="#475569" font-size="12" text-anchor="middle">不回答"对不对"</text>
+      <text x="595" y="540" fill="#8FA3BF" font-size="13" text-anchor="middle">回答"被什么模式驱动"</text>
+      <text x="595" y="560" fill="#8FA3BF" font-size="13" text-anchor="middle">不回答"对不对"</text>
     </g>
 
     <g>
@@ -63,8 +63,8 @@
         <text x="800" y="462">数学家位：先证明边界</text>
         <text x="800" y="484">实际分歧点：风险定价不同</text>
       </g>
-      <text x="800" y="540" fill="#475569" font-size="12" text-anchor="middle">弱仲裁 · 不站队</text>
-      <text x="800" y="560" fill="#475569" font-size="12" text-anchor="middle">裁决权在下游</text>
+      <text x="800" y="540" fill="#8FA3BF" font-size="13" text-anchor="middle">弱仲裁 · 不站队</text>
+      <text x="800" y="560" fill="#8FA3BF" font-size="13" text-anchor="middle">裁决权在下游</text>
     </g>
 
     <g>
@@ -77,8 +77,8 @@
         <text x="1005" y="462">某子 Agent 劫持议题？</text>
         <text x="1005" y="484">少数视角被压制？</text>
       </g>
-      <text x="1005" y="540" fill="#475569" font-size="12" text-anchor="middle">只记现象与趋势</text>
-      <text x="1005" y="560" fill="#475569" font-size="12" text-anchor="middle">不下修正指令</text>
+      <text x="1005" y="540" fill="#8FA3BF" font-size="13" text-anchor="middle">只记现象与趋势</text>
+      <text x="1005" y="560" fill="#8FA3BF" font-size="13" text-anchor="middle">不下修正指令</text>
     </g>
   </g>
 
@@ -97,7 +97,7 @@
       <text x="1370" y="432">收到的是元数据，不是叙事</text>
       <text x="1370" y="474">消化成你更能消化的信息</text>
     </g>
-    <text x="1370" y="530" fill="#475569" font-size="12.5" text-anchor="middle">镜子不替你吃饭</text>
+    <text x="1370" y="530" fill="#8FA3BF" font-size="12.5" text-anchor="middle">镜子不替你吃饭</text>
   </g>
 
   <!-- 连接线 -->
