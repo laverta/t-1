@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <!-- ═══ 背景 ═══ -->
+  <rect width="1600" height="900" fill="#0A0F1E"/>
+  <g opacity="0.05" stroke="#38BDF8" stroke-width="1">
+    <path d="M0 150 H1600 M0 300 H1600 M0 450 H1600 M0 600 H1600 M0 750 H1600"/>
+    <path d="M200 0 V900 M400 0 V900 M600 0 V900 M800 0 V900 M1000 0 V900 M1200 0 V900 M1400 0 V900"/>
+  </g>
+  <circle cx="1500" cy="80" r="180" fill="#38BDF8" opacity="0.04"/>
+  <circle cx="90" cy="840" r="140" fill="#F59E0B" opacity="0.04"/>
+
+  <!-- ═══ 标题区 ═══ -->
+  <text x="80" y="86" fill="#E5EAF3" font-size="40" font-weight="700">T-1 · 第三人称观测席位</text>
+  <text x="80" y="124" fill="#8FA3BF" font-size="19">当信息生产全面 agent 化，同质化成为默认形状 —— 你需要一个自己的观测席位</text>
+  <rect x="80" y="60" width="6" height="70" rx="3" fill="#38BDF8"/>
+
+  <!-- ═══ 主体：链路图 ═══ -->
+  <!-- 左：信息 agent 群 -->
+  <g>
+    <rect x="80" y="300" width="300" height="260" rx="14" fill="#111A30" stroke="#2A3B5A" stroke-width="1.5"/>
+    <text x="230" y="345" fill="#E5EAF3" font-size="22" font-weight="600" text-anchor="middle">生产信息的 Agent 群</text>
+    <g fill="#8FA3BF" font-size="15" text-anchor="middle">
+      <text x="230" y="385">生成 · 汇总 · 解读 · 发布</text>
+    </g>
+    <g stroke="#3B527A" stroke-width="1.2" fill="none">
+      <rect x="115" y="410" width="230" height="34" rx="8"/>
+      <rect x="115" y="452" width="230" height="34" rx="8"/>
+      <rect x="115" y="494" width="230" height="34" rx="8"/>
+    </g>
+    <g fill="#6E84A3" font-size="14" text-anchor="middle">
+      <text x="230" y="432">同源训练 · 趋同的嗓音</text>
+      <text x="230" y="474">谁在用什么镜头说话？</text>
+      <text x="230" y="516">—— 最先丢失的元数据</text>
+    </g>
+  </g>
+
+  <!-- 中：T-1 观测席位 -->
+  <g>
+    <rect x="470" y="230" width="660" height="400" rx="16" fill="#0D1628" stroke="#38BDF8" stroke-width="2"/>
+    <rect x="470" y="230" width="660" height="56" rx="16" fill="#38BDF8" opacity="0.12"/>
+    <text x="800" y="266" fill="#7DD3FC" font-size="24" font-weight="700" text-anchor="middle">T-1 · 只给镜头，不给答案</text>
+
+    <g>
+      <rect x="500" y="315" width="190" height="270" rx="12" fill="#111A30" stroke="#2A3B5A"/>
+      <text x="595" y="350" fill="#F59E0B" font-size="17" font-weight="600" text-anchor="middle">① 数据清洗</text>
+      <text x="595" y="378" fill="#8FA3BF" font-size="13" text-anchor="middle">给子 Agent 输出</text>
+      <text x="595" y="398" fill="#8FA3BF" font-size="13" text-anchor="middle">打范式偏差标签</text>
+      <g fill="#6E84A3" font-size="12.5" text-anchor="middle">
+        <text x="595" y="440">[反刍循环 · metaphor]</text>
+        <text x="595" y="462">[单透镜捕获 · metaphor]</text>
+        <text x="595" y="484">[温度失衡 · metaphor]</text>
+      </g>
+      <text x="595" y="540" fill="#475569" font-size="12" text-anchor="middle">回答"被什么模式驱动"</text>
+      <text x="595" y="560" fill="#475569" font-size="12" text-anchor="middle">不回答"对不对"</text>
+    </g>
+
+    <g>
+      <rect x="705" y="315" width="190" height="270" rx="12" fill="#111A30" stroke="#2A3B5A"/>
+      <text x="800" y="350" fill="#F59E0B" font-size="17" font-weight="600" text-anchor="middle">② 中立中继</text>
+      <text x="800" y="378" fill="#8FA3BF" font-size="13" text-anchor="middle">多方分歧 →</text>
+      <text x="800" y="398" fill="#8FA3BF" font-size="13" text-anchor="middle">"观点+来源范式"说明书</text>
+      <g fill="#6E84A3" font-size="12.5" text-anchor="middle">
+        <text x="800" y="440">工程师位：先重构</text>
+        <text x="800" y="462">数学家位：先证明边界</text>
+        <text x="800" y="484">实际分歧点：风险定价不同</text>
+      </g>
+      <text x="800" y="540" fill="#475569" font-size="12" text-anchor="middle">弱仲裁 · 不站队</text>
+      <text x="800" y="560" fill="#475569" font-size="12" text-anchor="middle">裁决权在下游</text>
+    </g>
+
+    <g>
+      <rect x="910" y="315" width="190" height="270" rx="12" fill="#111A30" stroke="#2A3B5A"/>
+      <text x="1005" y="350" fill="#F59E0B" font-size="17" font-weight="600" text-anchor="middle">③ 常驻巡视</text>
+      <text x="1005" y="378" fill="#8FA3BF" font-size="13" text-anchor="middle">跨任务长期巡检</text>
+      <text x="1005" y="398" fill="#8FA3BF" font-size="13" text-anchor="middle">联邦运行状态日志</text>
+      <g fill="#6E84A3" font-size="12.5" text-anchor="middle">
+        <text x="1005" y="440">单一视角持续倾斜？</text>
+        <text x="1005" y="462">某子 Agent 劫持议题？</text>
+        <text x="1005" y="484">少数视角被压制？</text>
+      </g>
+      <text x="1005" y="540" fill="#475569" font-size="12" text-anchor="middle">只记现象与趋势</text>
+      <text x="1005" y="560" fill="#475569" font-size="12" text-anchor="middle">不下修正指令</text>
+    </g>
+  </g>
+
+  <!-- 右：下游 -->
+  <g>
+    <rect x="1220" y="300" width="300" height="260" rx="14" fill="#111A30" stroke="#2A3B5A" stroke-width="1.5"/>
+    <text x="1370" y="345" fill="#E5EAF3" font-size="22" font-weight="600" text-anchor="middle">下游 · 消化在别处</text>
+    <g fill="#8FA3BF" font-size="15" text-anchor="middle">
+      <text x="1370" y="385">合成 / 决策 Agent，或你</text>
+    </g>
+    <g stroke="#3B527A" stroke-width="1.2" fill="none">
+      <rect x="1255" y="410" width="230" height="34" rx="8"/>
+      <rect x="1255" y="452" width="230" height="34" rx="8"/>
+    </g>
+    <g fill="#6E84A3" font-size="14" text-anchor="middle">
+      <text x="1370" y="432">收到的是元数据，不是叙事</text>
+      <text x="1370" y="474">消化成你更能消化的信息</text>
+    </g>
+    <text x="1370" y="530" fill="#475569" font-size="12.5" text-anchor="middle">镜子不替你吃饭</text>
+  </g>
+
+  <!-- 连接线 -->
+  <g stroke="#38BDF8" stroke-width="2.5" fill="none" opacity="0.85">
+    <path d="M380 430 H470"/>
+    <path d="M1130 430 H1220"/>
+  </g>
+  <g fill="#38BDF8">
+    <path d="M470 430 l-14 -7 v14 Z" transform="translate(14,0)"/>
+    <path d="M1220 430 l-14 -7 v14 Z"/>
+  </g>
+  <g fill="#7DD3FC" font-size="13" text-anchor="middle">
+    <text x="425" y="415">输出</text>
+    <text x="1175" y="415">观测报告</text>
+  </g>
+
+  <!-- ═══ 底部：立场三条 + 等级图例 ═══ -->
+  <rect x="80" y="680" width="1440" height="130" rx="14" fill="#0D1628" stroke="#1E2B45"/>
+  <text x="110" y="720" fill="#E5EAF3" font-size="18" font-weight="600">立场（违反即不是 T-1）</text>
+  <g fill="#8FA3BF" font-size="15.5">
+    <text x="110" y="752">一、主语是过程，不是人 —— 描述"这段推理在做什么"，永不断言"你是什么"</text>
+    <text x="110" y="780">二、观察句不含价值判定词 —— "风险定价"可以，"想错了"不行　　三、零立场代入 —— 标注宿命叙事时，自己不带宿命色彩</text>
+  </g>
+  <g text-anchor="end">
+    <text x="1490" y="720" fill="#E5EAF3" font-size="15" font-weight="600">证据分级</text>
+    <g font-size="13.5">
+      <text x="1490" y="745" fill="#6E84A3"><tspan fill="#34D399">evidence</tspan> 外部研究</text>
+      <text x="1490" y="768" fill="#6E84A3"><tspan fill="#FBBF24">hypothesis</tspan> 可检验猜测</text>
+      <text x="1490" y="791" fill="#6E84A3"><tspan fill="#94A3B8">metaphor</tspan> 语言工具</text>
+    </g>
+  </g>
+
+  <!-- 页脚 -->
+  <text x="80" y="862" fill="#3D4E6B" font-size="13">T-1 · Third-One ｜ CC BY-NC 4.0 ｜ 只观测标注 · 不生产内容 · 不做决策 · 不评判对错 ｜ 情绪倾诉内容不适用（负面范围条款）</text>
+</svg>
